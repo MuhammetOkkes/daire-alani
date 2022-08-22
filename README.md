@@ -1,2 +1,2 @@
-# daire-alani
-Dairenin alani 
+# DAİRENİN ALANI
+Patika Linkim : https://app.patika.dev/okkes
